@@ -1,4 +1,4 @@
-module Day1 where
+module Main where
 
 type Mass = Integer
 type Fuel = Integer

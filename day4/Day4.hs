@@ -1,4 +1,4 @@
-module Day4 where
+module Main where
 
 low :: Int
 low = 130254
